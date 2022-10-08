@@ -1,0 +1,15 @@
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/bin/Debug/net6.0/Task_64
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/bin/Debug/net6.0/Task_64.deps.json
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/bin/Debug/net6.0/Task_64.runtimeconfig.json
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/bin/Debug/net6.0/Task_64.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/bin/Debug/net6.0/Task_64.pdb
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.csproj.AssemblyReference.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.AssemblyInfoInputs.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.AssemblyInfo.cs
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/refint/Task_64.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.pdb
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/Task_64.genruntimeconfig.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/C#/Homework_P9/Task_64/obj/Debug/net6.0/ref/Task_64.dll
